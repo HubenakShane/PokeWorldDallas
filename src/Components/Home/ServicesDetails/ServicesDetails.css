@@ -1,0 +1,6 @@
+.addedService{
+    transition: 1s;
+}
+.addedService:hover{
+    transform: scale(1.2);
+}

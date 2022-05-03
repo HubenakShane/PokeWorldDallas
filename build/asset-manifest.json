@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ff6c4ae.chunk.css",
+    "main.js": "/static/js/main.099a217e.chunk.js",
+    "main.js.map": "/static/js/main.099a217e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4cdb7315.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4cdb7315.js.map",
+    "static/js/2.05329620.chunk.js": "/static/js/2.05329620.chunk.js",
+    "static/js/2.05329620.chunk.js.map": "/static/js/2.05329620.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b76aac44ba4b7021266f46a618bc6283.js": "/precache-manifest.b76aac44ba4b7021266f46a618bc6283.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1ff6c4ae.chunk.css.map": "/static/css/main.1ff6c4ae.chunk.css.map",
+    "static/js/2.05329620.chunk.js.LICENSE.txt": "/static/js/2.05329620.chunk.js.LICENSE.txt",
+    "static/media/Dragonite.jpg": "/static/media/Dragonite.39bfe57f.jpg",
+    "static/media/Dragonite1.jpg": "/static/media/Dragonite1.ac76f586.jpg",
+    "static/media/EnergyRemoval.jpg": "/static/media/EnergyRemoval.a26fa6e0.jpg",
+    "static/media/PokeFlute.jpg": "/static/media/PokeFlute.0ffba6b0.jpg",
+    "static/media/Raichu.jpg": "/static/media/Raichu.c9afe3e8.jpg",
+    "static/media/carousel-1.png": "/static/media/carousel-1.787a2ec3.png",
+    "static/media/carousel-2.png": "/static/media/carousel-2.f7d2c78c.png",
+    "static/media/carousel-3.png": "/static/media/carousel-3.491c67bb.png",
+    "static/media/logo.png": "/static/media/logo.e47c0531.png",
+    "static/media/unnamed.jpg": "/static/media/unnamed.2e5c9d24.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cdb7315.js",
+    "static/js/2.05329620.chunk.js",
+    "static/css/main.1ff6c4ae.chunk.css",
+    "static/js/main.099a217e.chunk.js"
+  ]
+}

@@ -1,0 +1,12 @@
+body{
+  font-family: 'Oswald', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.btn-style{
+  text-align: center;
+  color: white !important;
+  background-color: #111430;
+  width: 110px;
+  border-radius: 6px;
+}
